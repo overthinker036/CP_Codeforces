@@ -1,0 +1,14 @@
+D:\Code Files\C#\486A\bin\Debug\net8.0\486A.exe
+D:\Code Files\C#\486A\bin\Debug\net8.0\486A.deps.json
+D:\Code Files\C#\486A\bin\Debug\net8.0\486A.runtimeconfig.json
+D:\Code Files\C#\486A\bin\Debug\net8.0\486A.dll
+D:\Code Files\C#\486A\bin\Debug\net8.0\486A.pdb
+D:\Code Files\C#\486A\obj\Debug\net8.0\486A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Files\C#\486A\obj\Debug\net8.0\486A.AssemblyInfoInputs.cache
+D:\Code Files\C#\486A\obj\Debug\net8.0\486A.AssemblyInfo.cs
+D:\Code Files\C#\486A\obj\Debug\net8.0\486A.csproj.CoreCompileInputs.cache
+D:\Code Files\C#\486A\obj\Debug\net8.0\486A.dll
+D:\Code Files\C#\486A\obj\Debug\net8.0\refint\486A.dll
+D:\Code Files\C#\486A\obj\Debug\net8.0\486A.pdb
+D:\Code Files\C#\486A\obj\Debug\net8.0\486A.genruntimeconfig.cache
+D:\Code Files\C#\486A\obj\Debug\net8.0\ref\486A.dll
